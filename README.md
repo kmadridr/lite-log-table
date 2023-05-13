@@ -15,7 +15,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Lite Lo
 
 ```bash
 pip install lite-log-table
-
+```
 ## Usage
 
 1. Import the lite_log_table module into your Python project:
